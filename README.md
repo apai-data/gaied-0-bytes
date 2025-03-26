@@ -1,4 +1,4 @@
-# 🚀 Email Eclipse: Gen AI's Revolutionizing Email Classification
+![image](https://github.com/user-attachments/assets/6fcbfa7e-5e92-453b-beda-117779193f2c)# 🚀 Email Eclipse: Gen AI's Revolutionizing Email Classification
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,10 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Many Service Teams like Commercial bank Lending Services receive many service requests in email with unstructured attachments.Lot of Manual Efforts are needed to understand Diverse requests from email and route it to right technical team for processing requests based on skill sets.
+Email Eclipse-Gen AI's Revolutionizing Email Classification is an End-to-End Pipeline implemented to automated Service Request creation by extracting email content through Gen AI.
+
+
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -24,16 +27,32 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+Automation of Repetitive Tasks.
+Enhanced Productivity by reducing Gate keeper Manual Efforts
+Improved Email Management during High Volume
+
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+End-to-End Pipeline implemented to automated Service Request creation by extracting email content through Gen AI.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+Python
+Pandas
+PyMuPDF
+NLP- Spacy{Named Entity Recognition (NER)}
+IMAP + OCR
+OpenAI- Gemini 2.0, Crewai
+Transformers-Hugging Face
+Pytesseract
+Tesseract
+Hashlib
+
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Intent Identification
+Historical Email Data generation for training
+Confidence score calculation.
+
 
 ## 🏃 How to Run
 1. Clone the repository  
@@ -50,11 +69,20 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+Python
+Pandas
+PyMuPDF
+NLP- Spacy{Named Entity Recognition (NER)}
+IMAP + OCR
+OpenAI- Gemini 2.0, Crewai
+Transformers-Hugging Face
+Pytesseract
+Tesseract
+Hashlib
 
-## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+
+## 👥 Team: 0_Bytes
+- **Satyanarayana J** - [GitHub](#) | [LinkedIn](#)
+- **VijayaSree A** - [GitHub](#) | [LinkedIn](#)
+- **Pranit B** - [GitHub](#) | [LinkedIn](#)
+- **Lakshman B** - [GitHub](#) | [LinkedIn](#)
