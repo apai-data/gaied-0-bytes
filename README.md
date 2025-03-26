@@ -1,4 +1,4 @@
-# 🚀 Email Eclipse
+# 🚀 Email Eclipse: Gen AI's Revolutionizing Email Classification
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
