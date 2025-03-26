@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6fcbfa7e-5e92-453b-beda-117779193f2c)# 🚀 Email Eclipse: Gen AI's Revolutionizing Email Classification
+ 🚀 Email Eclipse: Gen AI's Revolutionizing Email Classification
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
