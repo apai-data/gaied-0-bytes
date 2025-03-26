@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Email Eclipse
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
